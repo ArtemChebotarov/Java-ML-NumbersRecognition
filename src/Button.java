@@ -1,0 +1,1 @@
+import javax.swing.*;public class Button extends JButton {    public int getId() {        return id;    }    public void setId(int id) {        this.id = id;    }    private int id ;}
